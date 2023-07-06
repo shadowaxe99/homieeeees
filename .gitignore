@@ -1,0 +1,32 @@
+# .gitignore
+
+# Ignore Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore all log files
+*.log
+
+# Ignore data files
+*.csv
+*.json
+
+# Ignore model files
+*.h5
+
+# Ignore Docker files
+*.env
+
+# Ignore Jupyter Notebook files
+*.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore test output files
+tests/output/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
