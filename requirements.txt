@@ -1,4 +1,4 @@
-Flask==1.1.2
+Flask==2.2.5
 opencv-python==4.5.1.48
 numpy==1.22.0
 scipy==1.5.4
