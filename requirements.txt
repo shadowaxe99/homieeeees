@@ -22,7 +22,7 @@ python-jose[cryptography]==3.2.0
 passlib[bcrypt]==1.7.4
 python-multipart==0.0.5
 python-decouple==3.4
-requests==2.25.1
+requests==2.31.0
 aiohttp-cors==0.7.0
 aiohttp-jinja2==1.4.2
 aiohttp-security==0.4.0
