@@ -15,7 +15,7 @@ pytest-cov==2.11.1
 codecov==2.1.11
 python-dotenv==0.15.0
 yolov7==0.1.1
-aiohttp==3.7.3
+aiohttp==3.8.5
 aiofiles==0.6.0
 cryptography==3.4.6
 python-jose[cryptography]==3.2.0
