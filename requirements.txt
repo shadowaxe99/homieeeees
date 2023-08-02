@@ -17,7 +17,7 @@ python-dotenv==0.15.0
 yolov7==0.1.1
 aiohttp==3.8.5
 aiofiles==0.6.0
-cryptography==41.0.2
+cryptography==41.0.3
 python-jose[cryptography]==3.2.0
 passlib[bcrypt]==1.7.4
 python-multipart==0.0.5
